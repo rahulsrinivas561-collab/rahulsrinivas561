@@ -17,18 +17,18 @@ An analytical data professional with 2.9+ years of experience across Fraud & Ris
 
 ## 🚀 Core Portfolio Projects
 
-### 🛡️ [1. Real-Time Risk & Fraud Analytics Pipeline](https://github.com)
+### 🛡️ [1. Real-Time Risk & Fraud Analytics Pipeline](https://github.com/rahulsrinivas561-collab/risk-fraud-pipeline)
 An enterprise analytics framework designed to mimic real-time food delivery transaction fraud analysis.
 - **The Core Build:** Developed a FastAPI processing system leveraging Pydantic validation rules to handle and analyze streaming transactional arrays.
 - **Advanced SQL Optimization:** Built complex analytics patterns utilizing Snowflake Window functions and LAG analytics to flag account takeovers and geographic order velocity threats.
 - **AI Integration File:** Documents optimal prompt patterns used to audit and optimize database queries for enhanced execution performance.
 
-### 📊 [2. Interactive Trust & Safety KPI Dashboard](https://github.com)
+### 📊 [2. Interactive Trust & Safety KPI Dashboard](https://github.com/rahulsrinivas561-collab/trust-safety-dashboard)
 A data model and analytics dashboard focused on customer disputes and delivery verification metrics.
 - **Core Insights Tracking:** Visualizes indicators for platform exceptions including MDI (Marked Delivered Incorrectly) rates and loss volumes.
 - **Technical Rigor:** Houses organized text catalogs of calculated DAX measures and clean dimensional relationships.
 
-### 📦 [3. SCM Automated Stock Forecasting Engine](https://github.com)
+### 📦 [3. SCM Automated Stock Forecasting Engine](https://github.com/rahulsrinivas561-collab/scm-forecasting-engine)
 A data ingestion pipeline built to clean system fragments and handle mathematical reorder inventory targets.
 - **Python-Driven Parsing:** Fully automated ingestion routines utilizing low-level modules to read and combine logs smoothly.
 - **Forecasting Logic:** Combines NumPy with statistical variances to calculate dynamic safety stock margins and prevent fulfillment bottlenecks.
